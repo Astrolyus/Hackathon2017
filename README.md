@@ -10,9 +10,14 @@ Tasks -
 
 2. Setting up Alexa: http://blog.rapidapi.com/2016/10/07/alexa-api-project/
 Sub-tasks 
-  2.1 - 
-  2.2 - 
-  2.3 - 
+  2.1 - Creating a flow diagram that maps out how users will interact with the skill.
+  Flow diagram should show the requests users will make and the possibleoutcomes of those requests.
+  2.2 - Use the flow diagram to identify the user requests that your skill will handle. These will become
+  'intents'. 
+  2.3 - Create a new skill in the dev portal. At this point you can enter a name and invocation name for your new skill.
+  2.4 - Use the voice design to build your interaction model.
+  2.5 - Write and test the code for your skill
+  2.6 - Beta test
   
 3. Synchronizing Google API with Alexa
 3.1 
@@ -20,3 +25,15 @@ Sub-tasks
 3.3 
 
 4. Anything else? 
+
+
+
+
+
+
+
+
+
+
+
+
