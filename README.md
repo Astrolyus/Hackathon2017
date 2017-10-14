@@ -26,7 +26,8 @@ Sub-tasks
 3.3 
 
 Useful links:
-Developer portal for making skills https://developer.amazon.com/edw/home.html#/skills
+Git: https://help.github.com/articles/set-up-git/
+Developer portal for making skills: https://developer.amazon.com/edw/home.html#/skills
 Design process: https://developer.amazon.com/docs/custom-skills/steps-to-build-a-custom-skill.html#step-1-design-a-voice-user-interface
 
 
