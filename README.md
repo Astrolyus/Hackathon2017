@@ -7,6 +7,7 @@ Tasks -
 1.2 Get developers into repository
 1.3 Create README for project
 1.4 Setup folder structure.
+1.5 Setup GIT 
 
 2. Setting up Alexa: http://blog.rapidapi.com/2016/10/07/alexa-api-project/
 Sub-tasks 
@@ -24,7 +25,11 @@ Sub-tasks
 3.2 
 3.3 
 
-4. Anything else? 
+Useful links:
+Developer portal for making skills https://developer.amazon.com/edw/home.html#/skills
+Design process: https://developer.amazon.com/docs/custom-skills/steps-to-build-a-custom-skill.html#step-1-design-a-voice-user-interface
+
+
 
 
 
